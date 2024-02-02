@@ -1,0 +1,25 @@
+{
+  "name": "typeface",
+  "version": "1.0.0",
+  "description": "Project for TypeFace test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhinav2310/TypeFace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhinav2310/TypeFace/issues"
+  },
+  "homepage": "https://github.com/Abhinav2310/TypeFace#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.3",
+    "mysql": "^2.18.1"
+  }
+}
